@@ -1,5 +1,0 @@
-
-SHELL=/bin/bash
-PATH=/etc:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
-0 * * * * /bin/bash /home/rsync-backup/run-tasks.sh &>> /home/rsync-backup/run-tasks.log
-

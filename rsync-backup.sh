@@ -28,9 +28,9 @@ RSYNC_USER="rsync-backup";
 
 # Special directories names.
 # You can change it if you want.
-LAST_LABEL="ultimo";
-FULL_LABEL="completo";
-REMOVED_LABEL="removido";
+LAST_LABEL="LAST";
+FULL_LABEL="FULL";
+REMOVED_LABEL="REMOVED";
 
 DATE=$(date "+%Y-%m-%d");
 TIME=$(date "+%Hh%M");
